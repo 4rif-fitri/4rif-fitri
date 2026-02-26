@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/69900ed3-0a1d-474b-b4ee-3df8ca594aa6/deploy-status)](https://app.netlify.com/projects/game-mathh/deploys)
 <!--
 **4rif-fitri/4rif-fitri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
